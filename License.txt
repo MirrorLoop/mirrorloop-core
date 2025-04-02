@@ -1,0 +1,13 @@
+Copyright © 2025 Jonas Jeschke  
+All rights reserved.
+
+This framework, known as MirrorLoop, is an original behavioral evaluation system for AI authored by Jonas Jeschke.
+
+No part of the framework, its methodology, documents, scoring systems, loop mechanisms, comparisons, exports, or branding may be reproduced, distributed, or used in any form without explicit written permission from the author.
+
+MirrorLoop Core (version 1.3) is documented publicly for transparency and research reference only.
+
+Any commercial, educational, institutional, or integrated system use of MirrorLoop — including MirrorLoop Core or MirrorLoop Deep — requires a separate license agreement.
+
+For licensing inquiries, contact:  
+mirrorloop.framework@gmail.com
